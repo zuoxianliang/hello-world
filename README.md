@@ -2,6 +2,7 @@
 This is for the purpose of learning GIT Hub
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Hi, every one. I'm Goldenfold.
 I am a student from Tsinghua University
