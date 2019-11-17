@@ -4,5 +4,4 @@ This is for the purpose of learning GIT Hub
 
 Hi, every one. I'm Goldenfold.
 I am a student from Tsinghua University
-=======
->>>>>>> parent of c1836e2... Merge pull request #1 from zuoxianliang/readme-edits
+ok I have changed it.
